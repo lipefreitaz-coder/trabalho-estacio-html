@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página do Wireframe</title>
+</head>
+<body>
+
+    <header>
+        <h1>Logo / Título do Site</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Serviços</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        
+        <section>
+            <header>
+                <h2>Seção Principal</h2>
+            </header>
+
+            <article>
+                <h3>Título da Sessão / Artigo</h3>
+                <p>Conteúdo principal aqui.</p>
+            </article>
+
+            <article>
+                <h3>Outro Conteúdo</h3>
+                <p>Texto adicional aqui.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h2>Sidebar / Informações Laterais</h2>
+            <p>Conteúdo complementar...</p>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>© 2025 – Seu Nome / Informações do Rodapé</p>
+    </footer>
+
+</body>
+</html>
